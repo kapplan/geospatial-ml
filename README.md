@@ -15,7 +15,6 @@ Welcome to the `geospatial-ml` repository! This project is a hands-on exploratio
 
 Geospatial data plays a critical role in a myriad of applications, ranging from urban planning and environmental monitoring to transportation and disaster response. With the power of Machine Learning and GeoPandas, the capability of extracting insights, predicting trends, and understanding patterns from geospatial data is amplified.
 
-This project aims to guide you through the steps and techniques required to harness the potential of geospatial machine learning.
 
 ## Dependencies
 
@@ -37,13 +36,14 @@ You can resolve it by installing the necessary packages via either `conda` or `p
 **Using conda:**
 ```bash
 conda install -c conda-forge folium matplotlib mapclassify
+```
 
 **Using pip:**
 ```bash
-pip install folium matplotlib mapclassifyContributing
+pip install folium matplotlib mapclassify
+```
 
-## Contributions
+## Contributing
 
 Contributions are always welcome! Whether you have a feature suggestion, bug report, or wish to improve documentation, your input is valued and appreciated. Please read through our contributing guidelines before making any changes.
-
 
