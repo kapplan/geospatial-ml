@@ -8,7 +8,6 @@ Welcome to the `geospatial-ml` repository! This project is a hands-on exploratio
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
