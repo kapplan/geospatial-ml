@@ -1,5 +1,4 @@
 # Geospatial Data Analysis with GeoPandas 
-# Geospatial Data Analysis with GeoPandas
 
 Welcome to the `geospatial-ml` repository! This project is a hands-on exploration of Geospatial Data Analysis, based on the learnings from the ML in PL conference tutorials - Introduction to Geospatial Machine Learning.
 
